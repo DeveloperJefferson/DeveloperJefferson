@@ -41,7 +41,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdouglasacioli&psig=AOvVaw3mTpGHjY0sLcDw8btyX_GD&ust=1724163186795000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjT0ruegYgDFQAAAAAdAAAAABAo" alt="Imagem">
 </p>
 
 ## 🔥 Skills
