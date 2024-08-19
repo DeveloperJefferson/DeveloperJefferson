@@ -45,7 +45,7 @@
 <br clear="both">
 
 <div align="conter">
-	<img src="https://github.com/1999AZZAR/blob/main/resourcer/img/grid-snake.svg"
+	<img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resourcer/img/grid-snake.svg"
 		alt="snake"/></a>
 </div>
 ###
