@@ -41,9 +41,9 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdouglasacioli&psig=AOvVaw3mTpGHjY0sLcDw8btyX_GD&ust=1724163186795000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjT0ruegYgDFQAAAAAdAAAAABAo](https://github.com/user-attachments/assets/a12cec91-2509-4e2b-be71-21fce0ab7c8f)" alt="Imagem">
+  <img align="center" src="https://github.com/user-attachments/assets/a12cec91-2509-4e2b-be71-21fce0ab7c8f" alt="Imagem">
 </p>
-![213875785-400ae517-156b-4aca-a787-bac75d84c393](https://github.com/user-attachments/assets/a12cec91-2509-4e2b-be71-21fce0ab7c8f)
+(https://github.com/user-attachments/assets/a12cec91-2509-4e2b-be71-21fce0ab7c8f)
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
