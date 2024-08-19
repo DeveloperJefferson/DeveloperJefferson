@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Hi 👋, I'm Jefferson! Systems Analysis and Development student in Brazil.
 
   - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
@@ -43,7 +43,7 @@
 <p align="left">
   <img align="center" src="https://github.com/user-attachments/assets/a12cec91-2509-4e2b-be71-21fce0ab7c8f" alt="Imagem">
 </p>
-(https://github.com/user-attachments/assets/a12cec91-2509-4e2b-be71-21fce0ab7c8f)
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
