@@ -9,18 +9,18 @@
   
 Olá 👋, meu nome é Jefferson! Estudante de Análise e Desenvolvimento de Sistemas.
 
-  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional <img align="center" alt="html5" src="[https://img.shields.io/badge/Edx-193A3E?style=for-the -badge&logo=edx&logoColor=branco](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZIWfUq1dT4DX4rN27X-Go6P8Xvxu-VATLWhvAqvzfg5i4EJ8W98Zmwip7FcBzrh74Zo&usqp=CAU)" /> e Ciência de Dados
+  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Machine Learning.
+  - 🔭 Meu sonho é um dia trabalhar com IA e Machine Learning.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬Tenho 26 anos, atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning. Também sou criador de conteúdo no YouTube desde 2018, o que me ajudou a desenvolver habilidades importantes como criatividade, comunicação, marketing, capacidade analítica, gestão de comunidades e mídias sociais.
+  - 💬Tenho 22 anos, atualmente moro no Brasil. Tenho fluência em inglês e tenho experiência com SQL, Python, Análise de Dados, Visualização de Dados e Machine Learning.
 
-  - ⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+  - ⚡Gosto de ler, sou paixonado por tocar e sentir os sentimento a musica trás e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->
