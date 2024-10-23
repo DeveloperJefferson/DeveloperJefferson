@@ -9,7 +9,7 @@
   
 Olá 👋, meu nome é Jefferson! Estudante de Análise e Desenvolvimento de Sistemas.
 
-  - 🌱 Atualmente estou estudando Ciência de Dados e Ciência da Computação em Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the -badge&logo=edx&logoColor=branco" />
+  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Internacional <img align="center" alt="html5" src="[https://img.shields.io/badge/Edx-193A3E?style=for-the -badge&logo=edx&logoColor=branco](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZIWfUq1dT4DX4rN27X-Go6P8Xvxu-VATLWhvAqvzfg5i4EJ8W98Zmwip7FcBzrh74Zo&usqp=CAU)" /> e Ciência de Dados
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Machine Learning.
 </p>
